@@ -8,7 +8,7 @@
 #include<stdlib.h>
 
 
-int linear_search(int *,int,int);
+int linear_search(int *,int,int);//array ,size,key to be searched
 
 int main()
 {
